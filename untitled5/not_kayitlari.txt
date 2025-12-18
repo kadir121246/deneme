@@ -1,0 +1,6 @@
+Öğrenci No,Ders Adı,Vize (40%),Final (60%),AKTS,Senaryo
+1501000,NYP,80,95,5.0,Yüksek GANO (AA)
+1501001,MAT101,50,70,6.0,Orta GANO (BB)
+1501002,BMT101,90,90,4.0,Çok Yüksek GANO (AA)
+1501003,FİZ202,30,45,4.0,Kaldı (FF) - GANO'yu düşürür
+1501004,VERİYAP,75,80,8.0,Yüksek AKTS (Toplam AKTS testini sağlar)
